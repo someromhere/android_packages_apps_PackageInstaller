@@ -51,6 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+			android:background="#000000"
             android:gravity="center"
             android:orientation="vertical"
             android:paddingLeft="16dip"
@@ -83,6 +84,7 @@
     <LinearLayout
             android:id="@+id/buttons_panel"
             style="?android:attr/buttonBarStyle"
+			android:background="#000000"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:measureWithLargestChild="true"

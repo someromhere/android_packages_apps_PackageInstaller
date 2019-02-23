@@ -57,6 +57,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+			android:background="#000000"
             android:gravity="center"
             android:orientation="vertical"
             android:paddingLeft="16dip"
@@ -88,6 +89,7 @@
     <!-- Bottom buttons -->
     <LinearLayout style="?android:attr/buttonBarStyle"
             android:layout_width="match_parent"
+			android:background="#000000"
             android:layout_height="wrap_content"
             android:orientation="horizontal"
             android:padding="8dp">

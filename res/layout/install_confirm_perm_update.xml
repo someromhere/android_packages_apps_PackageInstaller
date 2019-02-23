@@ -83,6 +83,7 @@
     <!-- content -->
     <LinearLayout android:id="@+id/install_confirm_panel"
         android:layout_width="match_parent"
+		android:background="#000000"
         android:layout_height="match_parent"
         android:orientation="vertical">
 
