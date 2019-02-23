@@ -74,7 +74,7 @@
     <TextView android:id="@+id/install_confirm_question"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="?android:attr/colorPrimary"
+        android:background="#000000"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:text="@string/install_confirm_question"
         android:paddingStart="16dp"
