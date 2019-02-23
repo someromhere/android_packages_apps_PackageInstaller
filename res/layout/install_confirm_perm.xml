@@ -84,6 +84,7 @@
     <!-- content -->
     <TabHost android:id="@android:id/tabhost"
         android:layout_width="match_parent"
+        android:background="#000000"
         android:layout_height="wrap_content"
         android:layout_weight="1">
 
